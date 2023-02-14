@@ -2,6 +2,8 @@ click == 8.1.*
 Flask == 2.2.*
 imutils == 0.5.*
 matplotlib == 3.6.*
+msgpack == 1.0.*
+msgpack_numpy == 0.4.*
 mypy == 0.942
 numpy == 1.22.*
 opencv-python-headless == 4.5.5.*
